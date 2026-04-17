@@ -1,7 +1,7 @@
 ## Hi there, I'm Akshat 👋
 
 - 🔭 I develop deep learning models for drug response prediction.
-- 🌱 I’m currently learning the clinical limiations of these models.
+- 🌱 I’m currently learning the clinical limitations of these models.
 
 ## My Skills
 
